@@ -1,0 +1,39 @@
+# robots.txt — Alexander Van De Bruaene Academic Profile
+# All crawlers are explicitly welcome to index all content.
+
+User-agent: *
+Allow: /
+
+# AI-specific crawlers — explicitly permitted
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+# Sitemap
+Sitemap: https://alexandervandebruaene.github.io/sitemap.xml
